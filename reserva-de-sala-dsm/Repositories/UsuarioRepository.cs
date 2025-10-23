@@ -41,7 +41,7 @@ namespace reserva_de_sala_dsm.Repositories
             _context.Usuarios.Remove(usuario);
         }
 
-        public async Task SaveChangeAsync()
+        public async Task SaveChangesAsync()
         {
             await _context.SaveChangesAsync();
         }

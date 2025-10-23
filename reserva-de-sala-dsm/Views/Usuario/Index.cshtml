@@ -1,0 +1,37 @@
+﻿@model IEnumerable<reserva_de_sala_dsm.Models.Usuario>
+
+@{
+    ViewData["Title"] = "Lista de Usuário";
+}
+
+<h1>Lista de usuários</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Novo usuário</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>E-mail</th>
+            <th>Adiministrador</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Email</td>
+                <td>@(item.Administrador ? "Sim" : "Não")</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id">Detalhes</a>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Editar</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id">Deletar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

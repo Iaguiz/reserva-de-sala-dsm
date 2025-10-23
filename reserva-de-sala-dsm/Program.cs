@@ -1,5 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using reserva_de_sala_dsm.Data;
+using reserva_de_sala_dsm.Interfaces;
+using reserva_de_sala_dsm.Repositories;
+using reserva_de_sala_dsm.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +12,13 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<BancoContext>(opts =>
     opts.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
 );
+
+builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+builder.Services.AddScoped<ISalaRepository, SalaRepository>();
+
+builder.Services.AddScoped<IUsuarioService, UsuarioService>();
+builder.Services.AddScoped<ISalaService, SalaService>();
+
 
 var app = builder.Build();
 

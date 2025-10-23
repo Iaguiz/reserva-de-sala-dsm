@@ -10,7 +10,7 @@ namespace reserva_de_sala_dsm.Interfaces
         Task AddAsync(Usuario usuario);
         void Update(Usuario usuario);
         void Delete(Usuario usuario);
-        Task SaveChangeAsync();
+        Task SaveChangesAsync();
 
     }
 }

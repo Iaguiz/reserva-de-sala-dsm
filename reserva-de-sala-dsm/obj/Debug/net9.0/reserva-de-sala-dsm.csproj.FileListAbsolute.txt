@@ -336,3 +336,16 @@ C:\Faculdade\3° semestre\TP2\reserva-de-sala-dsm\reserva-de-sala-dsm\obj\Debug\
 C:\Faculdade\3° semestre\TP2\reserva-de-sala-dsm\reserva-de-sala-dsm\obj\Debug\net9.0\reserva-de-sala-dsm.pdb
 C:\Faculdade\3° semestre\TP2\reserva-de-sala-dsm\reserva-de-sala-dsm\obj\Debug\net9.0\reserva-de-sala-dsm.genruntimeconfig.cache
 C:\Faculdade\3° semestre\TP2\reserva-de-sala-dsm\reserva-de-sala-dsm\obj\Debug\net9.0\ref\reserva-de-sala-dsm.dll
+C:\Faculdade\3-semestre\TP2\reserva-de-sala-dsm\reserva-de-sala-dsm\obj\Debug\net9.0\reserva-de-sala-dsm.csproj.AssemblyReference.cache
+C:\Faculdade\3-semestre\TP2\reserva-de-sala-dsm\reserva-de-sala-dsm\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Faculdade\3-semestre\TP2\reserva-de-sala-dsm\reserva-de-sala-dsm\obj\Debug\net9.0\reserva-de-sala-dsm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculdade\3-semestre\TP2\reserva-de-sala-dsm\reserva-de-sala-dsm\obj\Debug\net9.0\reserva-de-sala-dsm.AssemblyInfoInputs.cache
+C:\Faculdade\3-semestre\TP2\reserva-de-sala-dsm\reserva-de-sala-dsm\obj\Debug\net9.0\reserva-de-sala-dsm.AssemblyInfo.cs
+C:\Faculdade\3-semestre\TP2\reserva-de-sala-dsm\reserva-de-sala-dsm\obj\Debug\net9.0\reserva-de-sala-dsm.csproj.CoreCompileInputs.cache
+C:\Faculdade\3-semestre\TP2\reserva-de-sala-dsm\reserva-de-sala-dsm\obj\Debug\net9.0\reserva-de-sala-dsm.MvcApplicationPartsAssemblyInfo.cache
+C:\Faculdade\3-semestre\TP2\reserva-de-sala-dsm\reserva-de-sala-dsm\obj\Debug\net9.0\reserva-de-sala-dsm.RazorAssemblyInfo.cache
+C:\Faculdade\3-semestre\TP2\reserva-de-sala-dsm\reserva-de-sala-dsm\obj\Debug\net9.0\reserva-de-sala-dsm.RazorAssemblyInfo.cs
+C:\Faculdade\3-semestre\TP2\reserva-de-sala-dsm\reserva-de-sala-dsm\obj\Debug\net9.0\reserva-de-sala-dsm.sourcelink.json
+C:\Faculdade\3-semestre\TP2\reserva-de-sala-dsm\reserva-de-sala-dsm\obj\Debug\net9.0\reserva-de-sala-dsm.dll
+C:\Faculdade\3-semestre\TP2\reserva-de-sala-dsm\reserva-de-sala-dsm\obj\Debug\net9.0\refint\reserva-de-sala-dsm.dll
+C:\Faculdade\3-semestre\TP2\reserva-de-sala-dsm\reserva-de-sala-dsm\obj\Debug\net9.0\reserva-de-sala-dsm.pdb

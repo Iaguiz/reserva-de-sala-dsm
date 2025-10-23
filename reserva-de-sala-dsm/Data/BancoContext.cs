@@ -8,6 +8,7 @@ namespace reserva_de_sala_dsm.Data
         public BancoContext(DbContextOptions<BancoContext> options) : base(options) { }
 
         public DbSet<Usuario> Usuarios { get; set; }
+        public DbSet<Sala> Salas { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
