@@ -9,6 +9,8 @@ namespace reserva_de_sala_dsm.Data
 
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<Sala> Salas { get; set; }
+        public DbSet<Reserva> Reservas { get; set; }
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

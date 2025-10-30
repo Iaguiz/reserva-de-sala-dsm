@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Faculdade\\3° semestre\\TP2\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj": {}
+    "C:\\Faculdade\\3-semestre\\TP2\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj": {}
   },
   "projects": {
-    "C:\\Faculdade\\3° semestre\\TP2\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj": {
+    "C:\\Faculdade\\3-semestre\\TP2\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Faculdade\\3° semestre\\TP2\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj",
+        "projectUniqueName": "C:\\Faculdade\\3-semestre\\TP2\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj",
         "projectName": "reserva-de-sala-dsm",
-        "projectPath": "C:\\Faculdade\\3° semestre\\TP2\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj",
+        "projectPath": "C:\\Faculdade\\3-semestre\\TP2\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj",
         "packagesPath": "C:\\Users\\Iago\\.nuget\\packages\\",
-        "outputPath": "C:\\Faculdade\\3° semestre\\TP2\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\obj\\",
+        "outputPath": "C:\\Faculdade\\3-semestre\\TP2\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
